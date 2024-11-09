@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(33, 30, 54);
+    color:white;
+}
+
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.grid-item {
+    text-align: center;
+}
